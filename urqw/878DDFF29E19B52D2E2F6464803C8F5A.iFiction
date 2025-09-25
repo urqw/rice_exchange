@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ifindex version="1.0" xmlns="http://babel.ifarchive.org/protocol/iFiction/">
+	<story>
+		<identification>
+			<ifid>878DDFF29E19B52D2E2F6464803C8F5A</ifid>
+			<format>urqw</format>
+		</identification>
+		<bibliographic>
+			<title>Рисовая Биржа. Осака. XVIII век</title>
+			<author>Юрий Павленко (Goraph)</author>
+			<language>ru</language>
+			<firstpublished>2004-12-31</firstpublished>
+			<genre>Финансы</genre>
+			<group>URQ</group>
+			<description>Япония. XVIII век. Умирает старый купец в своём доме.<br/>Три сына есть у него. Трёх сыновей зовёт он к себе: "Тот из вас, кто вернётся назад с самой большой сумой денег через 30 дней, и станет моим наследником, и получит от меня в наследство все 10000 йен".</description>
+		</bibliographic>
+		<contacts>
+			<url>https://urqw.github.io/UrqW/#rice_exchange</url>
+		</contacts>
+		<colophon>
+			<generator>UrqW Game Template</generator>
+			<originated>2025-09-25</originated>
+		</colophon>
+	</story>
+</ifindex>
